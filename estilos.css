@@ -1,9 +1,19 @@
 body{
-    background-color: #CCCCCC;
+
 }
 
-h1{
-    text-align: center;
+img {
+    width: 100%;
+}
+
+h1 { text-align: center;
+}
+
+
+.principal {
+    
+    background-color: #CCCCCC;
+    padding: 30px;
 }
 
 p {
@@ -13,3 +23,24 @@ p {
 em p {
      color: purple;
 }
+
+.beneficios{
+     background: #FFFFFF;
+     padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.imagembeneficios{
+    width: 50%;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
