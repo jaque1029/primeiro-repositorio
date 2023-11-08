@@ -1,18 +1,17 @@
-body{
-
+body {
+   
 }
 
 img {
     width: 100%;
 }
 
-h1 { text-align: center;
+h2 {
+    text-align: center;
 }
 
-
 .principal {
-    
-    background-color: #CCCCCC;
+    background: #CCCCCC;
     padding: 30px;
 }
 
@@ -20,20 +19,20 @@ p {
     text-align: center;
 }
 
-em p {
-     color: purple;
+em strong {
+    color: red;
 }
 
-.beneficios{
-     background: #FFFFFF;
-     padding: 20px;
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
 }
 
-h2 {
+h3 {
     text-align: center;
 }
 
-.imagembeneficios{
+.imagembeneficios {
     width: 50%;
 }
 
@@ -43,4 +42,3 @@ ul {
     width: 20%;
     margin-right: 15%;
 }
-
