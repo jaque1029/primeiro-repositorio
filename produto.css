@@ -1,0 +1,14 @@
+header {
+    background: #CCCCCC;
+}
+
+nav li {
+    display: inline;
+}
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font: 22px;
+    text-decoration: none;
+}
